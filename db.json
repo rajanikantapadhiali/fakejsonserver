@@ -10,32 +10,39 @@
       "id": 2,
       "name": "Shyam",
       "degignation": "Frontend Developer",
-      "salary": "10000"
+      "salary": "20000"
     },
     {
       "id": 3,
       "name": "Ravi",
       "degignation": "Frontend Web DEveloper",
-      "salary": "20000"
+      "salary": "30000"
     },
     {
       "id": 4,
       "name": "Sachin",
       "degignation": "Java DEveloper",
-      "salary": "30000"
+      "salary": "40000"
     },
     {
       "id": 5,
       "name": "Virat",
       "degignation": "Senior Software Engineer",
-      "salary": "40000"
+      "salary": "50000"
     },
     {
       "id": 6,
       "name": "Mahi",
       "degignation": "Software Engineer",
-      "salary": "50000"
-    }],
+      "salary": "60000"
+    },
+    {
+      "id": 7,
+      "name": "Rajkumar",
+      "degignation": "php Developer",
+      "salary": "70000"
+    }
+  ],
   "comments": [
     {
       "id": 1,
