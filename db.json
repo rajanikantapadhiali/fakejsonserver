@@ -2,42 +2,38 @@
   "posts": [
     {
       "id": 1,
-      "title": "Ram"
+      "name": "Ram",
+      "degignation": "Web DEveloper",
+      "salary": "10000"
     },
     {
       "id": 2,
-      "title": "Shyam"
+      "name": "Shyam",
+      "degignation": "Frontend Developer",
+      "salary": "10000"
     },
     {
       "id": 3,
-      "title": "Ravi"
+      "name": "Ravi",
+      "degignation": "Frontend Web DEveloper",
+      "salary": "20000"
     },
     {
       "id": 4,
-      "title": "Sachin"
+      "name": "Sachin",
+      "degignation": "Java DEveloper",
+      "salary": "30000"
     },
     {
       "id": 5,
-      "title": "Virat"
+      "name": "Virat",
+      "degignation": "Senior Software Engineer",
+      "salary": "40000"
     },
     {
       "id": 6,
-      "title": "Mahi"
+      "name": "Mahi",
+      "degignation": "Software Engineer",
+      "salary": "50000"
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
 }
